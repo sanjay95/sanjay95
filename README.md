@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-# Sanjay Kumar
+A brief about me.
 
 **Senior Solutions Architect | Innovator in Decentralized Identity & Healthcare Tech**
 
