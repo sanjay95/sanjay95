@@ -28,7 +28,6 @@ Greetings! I'm Sanjay, a tech enthusiast with over 13 years of experience in tra
 ## Get In Touch
 
 - **Location:** Bengaluru, Karnataka, India
-- **Email:** [sanjayshekhar@live.com](mailto:sanjayshekhar@live.com)
 - [LinkedIn](https://www.linkedin.com/in/sanjay95)
 
 Let's connect and explore the possibilities of tech innovation together!
