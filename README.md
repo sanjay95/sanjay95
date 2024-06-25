@@ -2,7 +2,7 @@
 
 !Banner
 
-I'm a Senior Solutions Architect who loves to turn ideas into reality using coding. I have over 13 years of experience in the tech industry, working with big names like Dell and Siemens, and now I'm riding the innovation wave in the startup world at Affinidi.
+I'm a Senior Solutions Architect who loves to turn ideas into reality using coding. I have over 13 years of experience in the tech industry, working with Dell and Siemens, and now I'm riding the innovation wave in the startup world at Affinidi.
 
 ## 🚀 About Me
 
@@ -34,9 +34,11 @@ I have experience with a wide range of technologies including:
 
 Feel free to reach out to me if you have any questions, ideas, or just want to chat!
 
-- LinkedIn: Sanjay Kumar
+- **Location:** Bengaluru, Karnataka, India
+- [LinkedIn](https://www.linkedin.com/in/sanjay95)
 
-## 🎉 Fun Fact
 
-I have a pet named "Cody". He's a great coding companion!
+![Jokes Card]([https://readme-jokes.vercel.app/api](https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0))
+
+
 
