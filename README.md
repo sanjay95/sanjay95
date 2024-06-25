@@ -1,49 +1,42 @@
-## Hi there 👋
+# Hi there, I'm Sanjay Kumar! 👋
 
-A brief about me.
+!Banner
 
-**Senior Solutions Architect | Innovator in Decentralized Identity & Healthcare Tech**
+I'm a Senior Solutions Architect who loves to turn ideas into reality using coding. I have over 13 years of experience in the tech industry, working with big names like Dell and Siemens, and now I'm riding the innovation wave in the startup world at Affinidi.
 
-## About Me
+## 🚀 About Me
 
-Greetings! I'm Sanjay, a tech enthusiast with over 13 years of experience in transforming ideas into cutting-edge solutions. My journey has taken me from Dell to Siemens, and now I'm driving innovation at Affinidi. I specialize in software development, project delivery, and leveraging technology to enhance efficiency and patient care.
+I'm a tech enthusiast who loves to learn about new technologies and apply them to solve real-world problems. I have a knack for understanding complex systems and a passion for making them more efficient and effective.
 
-## What I Do
+When I'm not architecting solutions or coding, you can find me interacting with new people and learning from their perspectives. I believe that everyone you meet knows something you don't, and I love learning from others.
 
-- **Tech Stack Mastery:** C#, .NET Core, SQL Server, ASP.NET, ReactJs
-- **Tech Savvy:** Docker, Kubernetes, Microservices, DDD, BDD
-- **Innovator:** Pioneering in Decentralized Identity, empowering individuals with data control
+## 🎯 What I'm Focusing On
 
-## Certifications
+Currently, I'm part of a team pioneering Decentralized Identity at Affinidi. Our goal is to empower individuals with data control, reshaping digital identity management.
 
-- Solace Certified Event Driven Architecture Practitioner
-- Kubernetes: Microservices
-- ASP.NET Core Identity: Authentication Management
+## 💼 Past Experiences
 
-## Projects & Contributions
+I've had the privilege of working at some amazing companies where I've learned a lot and contributed to many interesting projects:
 
-- **Decentralized Identity Solutions:** Leading innovative projects that redefine digital identity management.
-- **Healthcare Tech:** Enhancing patient care through robust software solutions.
+- **Affinidi** - Senior Solution Architect (August 2022 - Present)
+- **Siemens Healthineers** - Solutions Architect (May 2020 - August 2022)
+- **Dell** - Senior Software Engineer (2017 - July 2018)
 
-## Get In Touch
+## 🛠️ Tech Stack
 
-- **Location:** Bengaluru, Karnataka, India
-- [LinkedIn](https://www.linkedin.com/in/sanjay95)
+I have experience with a wide range of technologies including:
 
-Let's connect and explore the possibilities of tech innovation together!
+- **Languages:** C#, .Net Core, SQL Server, ASP.net, MVC, Docker, Kubernetes, jQuery, ReactJs, NextJs
+- **Concepts:** Backend and platform development, Microservices, DDD, BDD, Unit testing, OSS assessment, HL7, FHIR STU3, R4
+- **Tools:** JMeter, Locust, SoapUI, Postman, WPA, Wireshark, Microsoft Network Monitor
 
+## 📫 Get in Touch
 
-<!--
-**sanjay95/sanjay95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Feel free to reach out to me if you have any questions, ideas, or just want to chat!
 
-Here are some ideas to get you started:
+- LinkedIn: Sanjay Kumar
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎉 Fun Fact
+
+I have a pet named "Cody". He's a great coding companion!
+
